@@ -1,0 +1,7 @@
+{
+  "name": "Resonant Grief Lattice",
+  "description": "An AI-powered alchemical tool that transmutes the energy of grief into a unique, resilient purpose print through a bio-rhythmic calibration rite using breath and sound, guided by cosmic principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
